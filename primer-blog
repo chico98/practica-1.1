@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<!-- HTML5 Hello world by kirupa - http://www.kirupa.com/html5/getting_your_feet_wet_html5_pg1.htm -->
+<html lang="es-es">
+
+<head>
+<title> REAL MADRID CLUB DE FUTBOL</title>
+<link rel="stylesheet" href="style.css" type="text/css" />
+		
+</head>
+<!--Iniciamos practicas-->
+<body>
+	<header>
+		
+		<div>
+			<ul>
+				<a href="about.html">NOTICIAS</a>
+				
+			</ul>
+			<ul>
+				<a href="fichaje.html">FICHAJES</a>
+			</ul>
+			<ul>
+				<a href="importante.html">IMPORTANTE</a>
+				
+			</ul>
+			<ul>
+				<a href="ucl.html">UCL-DETALLES</a>
+			</ul>
+			
+		</div>
+		
+		<h1> REAL MADRID </h1>
+		<img src="./img/real.png" title='real_madrid'
+		height='200' width='500' aling='right'/>
+		
+		
+	</header>
+	
+	<article>
+		<p>
+			<b>El Real Madrid Club de Futbol</b>, mejor conocido como Real Madrid, es una entidad polideportiva con sede en Madrid, España. Fue declarada oficialmente registrada por sus socios el 6 de marzo de 1902 con el unico objeto de la practica del futbol aunque recientes investigaciones de antiguas publicaciones datan sus origenes a la Nueva Sociedad de Foot-Ball en 1900, teniendo en Julian Palacios y los hermanos barceloneses Juan y Carlos Padros a sus principales valedores. Fue en noviembre de 1901 cuando se establecio su denominacion de (Sociedad) Madrid Foot-ball Club.
+		</p>
+		<p>
+				
+				
+				
+		</p>
+		<p>
+			Jowl shankle pork chop doner, kevin biltong alcatra shoulder cow. Turkey corned beef shoulder, pancetta doner flank jerky cupim leberkas biltong bacon beef tail. Doner hamburger pork loin leberkas ham hock beef drumstick shank kevin swine chicken landjaeger short loin fatback. Filet mignon ball tip pork chop sirloin ground round pancetta bacon turkey short ribs pork loin pig beef ribs. Pork belly ribeye jowl cow, ham swine cupim landjaeger strip steak short loin jerky kevin. Tail tri-tip turkey tenderloin strip steak.
+
+		</p>
+
+			<p>
+			Strip steak flank pork chop tail short loin. Tail sirloin porchetta, burgdoggen beef bacon pork loin rump pork belly. Capicola ground round cupim tongue tenderloin, landjaeger filet mignon turkey frankfurter pork drumstick. Tenderloin tongue sausage turkey pig porchetta ham burgdoggen frankfurter. Corned beef strip steak filet mignon, alcatra capicola turducken t-bone. Chicken flank brisket turkey pork loin chuck. Meatball beef ribs sausage bresaola pig pastrami short ribs swine.
+		</p>
+		<p>
+			<blockquote>
+					Strip steak flank pork chop tail short loin. Tail sirloin porchetta, burgdoggen beef bacon pork loin rump pork belly. Capicola ground round cupim tongue tenderloin, landjaeger filet mignon turkey frankfurter pork drumstick.<b>JUAN PEREZ</b>
+			</blockquote>
+			
+		</p>
+		<p>
+			<li>
+				zapátos
+			</li>
+			<li>
+				carros
+			</li>
+			
+			<ul>
+				zaza
+			</ul>
+			
+			<ul>
+				pantalon
+			</ul>
+		</p>
+		
+	
+		<img src="./img/descarga.png" alt='procesadores' title='Procesador'
+		height='250' width='250' align='right' 
+		/>
+		<table>
+			
+		
+			
+			<tr>
+				<td>#</td>
+				<td>Nombre</td>
+				<td>Apellido</td>
+			</tr>
+			<tr>
+				<td>1</td>
+				<td>Juan</td>
+				<td>Artola</td>
+			</tr>
+			<tr>
+				<td>2</td>
+				<td>Juan</td>
+				<td>Culebrelarga</td>
+			</tr>
+			<tr>
+				<td>3</td>
+				<td>Harold</td>
+				<td>Morales</td>
+			</tr>
+		
+		</table>
+		<table>
+			<h1>Lista de usuarios</h1>
+			<thead>
+				<tr>
+				<td>#</td>
+				<td>Nombre</td>
+				<td>Apellido</td>
+			</tr>
+			</thead>
+			
+			<tbody>
+			<tr>
+				<td>2</td>
+				<td>Juan</td>
+				<td>Culebrelarga</td>
+			</tr>
+			</tbody>
+			
+			<tfoot>
+			<tr>
+				<td>3</td>
+				<td>Harold</td>
+				<td>Morales</td>
+			</tr>
+			</tfoot>
+		</table>
+		
+		
+	</article>
+	
+	<footer>
+		
+	</footer>
+</body>
+
+</html>

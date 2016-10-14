@@ -1,0 +1,34 @@
+h1{
+    background-color: red;
+    color:white;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+    font-family: 'verdana, sans-serif';
+    text-transform: capitalize;
+}
+#box-test {
+    height: 45px;
+    width: 45px;
+    box-shadow: 5px 10px 108px 5px rgba(0,0,0,1);
+}
+h2{
+    background-color: #f2f0f2;
+}
+p {
+      
+    background-color: rgba(230, 120, 14, 0.5)
+}
+
+span.subrayado {
+    text-decoration: underline;
+}
+a{
+    background-color: green;
+    font-family: cursive;
+}
+img{
+    display:block;
+    margin:auto;
+    width: 40%;
+}
